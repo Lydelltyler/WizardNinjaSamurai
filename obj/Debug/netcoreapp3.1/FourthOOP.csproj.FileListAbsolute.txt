@@ -1,0 +1,13 @@
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.exe
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.deps.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.runtimeconfig.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.runtimeconfig.dev.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.dll
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\bin\Debug\netcoreapp3.1\FourthOOP.pdb
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.csprojAssemblyReference.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.AssemblyInfoInputs.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.AssemblyInfo.cs
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.csproj.CoreCompileInputs.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.dll
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.pdb
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP4.0\FourthOOP\obj\Debug\netcoreapp3.1\FourthOOP.genruntimeconfig.cache
